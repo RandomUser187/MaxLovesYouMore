@@ -1,0 +1,21 @@
+body {
+    background: linear-gradient(to top right, rgb(238, 235, 235), rgb(251, 160, 175));
+    padding: 5%;
+}
+
+h1 {
+    text-align: center;
+}
+
+.intro{
+    text-align: justify;
+}
+
+.col{
+    padding: 10px;
+}
+
+.footer{
+    text-align: center;
+}
+
